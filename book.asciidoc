@@ -8,7 +8,7 @@
 :pdf-page-size: 8in x 9in
 :pdf-style: misc/theme.yml
 
-include::cover.html[]
+image::cover.html[]
 
 include::preface.asciidoc[]
 
