@@ -1,12 +1,12 @@
 = Mastering Bitcoin
 :author: Andreas M. Antonopoulos
- :doctype: book
- :toc:
- :toclevels: 6
- :media: prepress
- :icons: font
- :pdf-page-size: 8in x 9in
- :pdf-style: misc/theme.yml
+:doctype: book
+:toc:
+:toclevels: 6
+:media: prepress
+:icons: font
+:pdf-page-size: 8in x 9in
+:pdf-style: misc/theme.yml
 
 include::cover.html[]
 
@@ -49,7 +49,3 @@ include::appdx-bitcore.asciidoc[]
 include::appdx-pycoin.asciidoc[]
 
 include::appdx-bx.asciidoc[]
-
-include::ix.html[]
-
-include::colo.html[]
