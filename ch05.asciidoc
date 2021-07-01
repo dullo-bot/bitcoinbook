@@ -126,7 +126,7 @@ By writing down this mnemonic, Gabriel created a backup (see <<mnemonic_paper_ba
 
 [[mnemonic_paper_backup]]
 .Gabriel's paper backup of the mnemonic
-[cols="<1,^50,<1,^50", width="80%"]
+[width="80%"]
 |===
 |*1.*| _army_ |*7.*| _garbage_
 |*2.*| _van_ |*8.*| _claim_
