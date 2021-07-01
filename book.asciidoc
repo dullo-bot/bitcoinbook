@@ -8,8 +8,6 @@
 :pdf-page-size: 8in x 9in
 :pdf-style: misc/theme.yml
 
-image::cover.html[]
-
 include::preface.asciidoc[]
 
 include::glossary.asciidoc[]
@@ -49,3 +47,7 @@ include::appdx-bitcore.asciidoc[]
 include::appdx-pycoin.asciidoc[]
 
 include::appdx-bx.asciidoc[]
+
+[index]
+== Index
+
